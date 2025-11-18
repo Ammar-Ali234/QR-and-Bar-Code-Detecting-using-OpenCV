@@ -1,6 +1,7 @@
-opencv-python=4.12.0.88
+opencv-python==4.12.0.88
 opencv-contrib
 streamlit
 zxing-cpp
+
 
 
